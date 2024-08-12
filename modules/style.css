@@ -1,0 +1,13 @@
+form{
+    background-color: rgba(6, 129, 2, 0.689);
+    box-sizing: border-box;
+    width: 30%;
+    margin: 6% 20% 15% 35%;
+    text-align: center;
+    color: antiquewhite;
+    border-radius: 20%;
+    
+}
+label input{
+    flex-direction: column;
+}
